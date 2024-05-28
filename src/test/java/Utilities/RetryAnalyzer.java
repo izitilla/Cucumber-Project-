@@ -3,7 +3,7 @@ package Utilities;
 
 
 
-public class RetryAnalyzer implements IRetryAnalyzer{
+public class RetryAnalyzer {
 
 //	int counter = 0;
 //	int retryLimit = 4;

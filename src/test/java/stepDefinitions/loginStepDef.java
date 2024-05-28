@@ -12,6 +12,7 @@ import io.cucumber.java.en.When;
 public class loginStepDef extends commonMethods{
 // day 82 33.51
 	
+	
 	@Given("the user has navigated to the login page")
 	public void the_user_has_navigated_to_the_login_page() {
 	    
